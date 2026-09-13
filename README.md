@@ -1,4 +1,4 @@
-<b>Live URL = https://realtime-spotify-clone-wtww.onrender.com/
+<b>Live URL = https://realtime-spotify-clone-wtww.onrender.com
 
 Realtime Spotify Music Streaming Clone using MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Docker, Render
 Designed a responsive web-based music player featuring an intuitive audio player control suite and album management admin dashboard.
@@ -8,12 +8,12 @@ Containerized the application using Docker containers and automated deployments 
 
 <b>Features in this project 🔥</b>
 <br>
-✅ Listen to music, play next and previous songs
-✅ Update the volume with a slider
-✅ Admin dashboard to create albums and songs
-✅ Real-time Chat App integrated into Spotify
-✅ Online/Offline status
-✅ See what other users are listening to in real-time
+✅ Listen to music, play next and previous songs <br>
+✅ Update the volume with a slider <br>
+✅ Admin dashboard to create albums and songs <br>
+✅ Real-time Chat App integrated into Spotify <br>
+✅ Online/Offline status <br>
+✅ See what other users are listening to in real-time<br>
 ✅ Deployment - Render application <br>
 
 
